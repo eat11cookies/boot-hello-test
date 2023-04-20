@@ -12,6 +12,7 @@ public class BootHelloTestApplication {
         System.out.println("git-test1");
         System.out.println("master");
         System.out.println("hot-fix");
+        System.out.println("push test");
     }
 
 }
