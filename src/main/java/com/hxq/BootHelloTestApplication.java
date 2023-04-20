@@ -8,6 +8,7 @@ public class BootHelloTestApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(BootHelloTestApplication.class, args);
+        System.out.println("git-test");
     }
 
 }
